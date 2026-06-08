@@ -3,6 +3,9 @@ checkout process to design build rockets docx to see how to build design patent,
 # Ongoing published archive
 https://zenodo.org/records/20547536
 
+### latest DOI
+https://doi.org/10.5281/zenodo.20588586
+
 # ballistic-coefficient-solution
 This is a rocket process or mechanism for diametrically volume collapsable structure, these are a whole new class of rockets where idea has not being seen or implemented yet. This is the first form of writing to work on a such class of rockets to solve ballistic coefficient problem. 
 
