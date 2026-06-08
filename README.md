@@ -14,7 +14,10 @@ SOLUTION
 - Now roll the papers semi-circluarly and then pull the sandwiched or center paper to cover the semi-circular gap with this
   
 - what you see now is the cross-section of diameterically extended rocket (low ballistic coefficient - considering factors such as mass, cross sectional area etc)
-- we describe the solution of top-down twist to contract and expand from the top cone to bottom segmented body of the rocket. (inspired from the streets of India - peanut sellers)
+- we describe the two solutions
+  - of top-down twist to contract and expand from the top cone to bottom segmented body of the rocket. (inspired from the streets of India - peanut sellers)
+  - diameterically increasing the size of the rocket in exo - atmosphere (in space vacuum) and performing re-entry of rocekt into any planetary body. ( one such would be the payload delivery into earth's atmospheric space )
+  - here is an example (https://www.youtube.com/watch?v=nQGrYzHi-aY)
 - we also describe the basic paper experiment in terms of harder shell of any material to perform the same.
 - the rotational expansion & contraction of the shell radially & not push - pull
 - we describe the stability and manuverability of the rocket using just the rotational concepts
