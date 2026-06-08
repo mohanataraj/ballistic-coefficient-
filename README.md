@@ -1,4 +1,7 @@
 checkout process to design build rockets docx to see how to build design patent, Idea starts it all.
+execute 2 patents 
+- one process is done in the exo atmosphere (space vacumm)
+- the second dynamic on atmospheric entry
 
 # Ongoing published archive
 https://zenodo.org/records/20547536
@@ -21,6 +24,21 @@ SOLUTION
 - we also describe the basic paper experiment in terms of harder shell of any material to perform the same.
 - the rotational expansion & contraction of the shell radially & not push - pull
 - we describe the stability and manuverability of the rocket using just the rotational concepts
+
+## Shape description 
+The below shows 2 aspects :-
+  - the first exo - atmospheric diametrically expanding rocket
+  - the second - irish mechanism to dynamically change the shape on descent
+    
+Note: execute two patents – one for exo – atmospheric radial expansion and the other is dynamic on fall.
+Check out this video [https://www.youtube.com/watch?v=RDRdsOvszN8]
+here we see the curved pathways transform to linear, this is great for exo-atmospheric expansion check cp,cg and tennis racket theorem effect
+for dynamic expansion upon entry into earths or any planetary surface we will use the green rods shaped as the same pathways this should cause rotational effect and radially contraction and expansion.
+Check out this video [https://www.youtube.com/watch?v=vFARO8EualU&list=PL37tY87jDKu1rBqbo0QfFEBvv5ClbCyAX]
+here in this video see how the blades rotate internally – we need a pivot on the outer part of the blade to have a hinge that converts this to a circular motion that would radially expand and contract the cylinder – this should work with a twist.
+We can design such mechanism – using the blade shape configurations or / and hinges that converts the curvilinear motion into circular motions.
+The most exciting part of this innovation is that its after 100 years and this open a whole new class of rocket design, physics and artificial intelligence.
+We need to hereby file two patents – one for exo – atmospheric expansion and the other dynamic as mentioned in the head note – the dynamic will be even more exciting as it involves such mechanic and takes time to file a patent. The easiest for me is the exo-atmospheric and landing back.
   
 NEED TO VERIFY  : while the physics checks out theoritically and with simple experiment as described above, the following needs to be verified via simulation etc.
 - the integrity of the structure at high speed high altitude entry and exiting the atmosphere to any planet
