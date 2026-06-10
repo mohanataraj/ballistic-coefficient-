@@ -7,13 +7,14 @@ execute 2 patents
 https://zenodo.org/records/20547536
 
 this is DOI for provisional patent 
-https://doi.org/10.5281/zenodo.20626092
-
+[https://doi.org/10.5281/zenodo.20633570
+](https://doi.org/10.5281/zenodo.20633570)
 ### latest DOI
 https://doi.org/10.5281/zenodo.20592096
 
 for provisional patent 
 https://doi.org/10.5281/zenodo.20626092
+https://doi.org/10.5281/zenodo.20633570
 
 # ballistic-coefficient-solution
 This is a rocket process or mechanism for diametrically volume collapsable structure, these are a whole new class of rockets where idea has not being seen or implemented yet. This is the first form of writing to work on a such class of rockets to solve ballistic coefficient problem. 
