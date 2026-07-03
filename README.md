@@ -68,7 +68,8 @@ PS NOTE: we havent seen any prior art on this concept - if any please feel to ma
 Novelty
 -  its embeded in the process of diameterically morphing the rocket itself radially outwards
 -  we use atmospheric pressure, velocity to change the rockets structure and position in space - horizontal to absorb & reduce the velocity
-
+- in rocket science terms or aerospace engineering - we use change the center of pressure as a function of diametric morphing of the rocket segmented cylinder to change the attitude of the rocket.
+  
 Structural and its physical impact Novelty (needs better visualization / simulation and verification of such methodology - but checks out)
 - this happens in the petal shaped cone aspect of the rocket
 - the iris or any other shaped tiles that make up the rocket structure
